@@ -7,3 +7,4 @@
 ``` CleanWebpackPlugin, HtmlWebpackPlugin ```
 ## Development
 ``` inline-source-map, webpack-dev-server, webpack-dev-middleware, express ```
+## Hot Module Replacement

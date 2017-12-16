@@ -1,3 +1,3 @@
 export default function printMe() {
-    console.log('I get called from print.js! webpack-dev-server without refresh wow');
+    console.log('Updating print.js wow...');
 }
