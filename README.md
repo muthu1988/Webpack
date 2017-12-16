@@ -5,3 +5,5 @@
 ``` CSS Loader, File Loader ```
 ## Plugins
 ``` CleanWebpackPlugin, HtmlWebpackPlugin ```
+## Development
+``` inline-source-map, webpack-dev-server, webpack-dev-middleware, express ```
